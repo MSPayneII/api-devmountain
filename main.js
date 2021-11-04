@@ -1,5 +1,5 @@
 let residentsBtn = document.querySelector("button");
-let residentsList = document.getElementById("residents-section");
+let residentsList = document.getElementById("residents-list");
 
 const getData = () => {
   console.log("Now you'll modify the function to make an axios call to Swapi");
